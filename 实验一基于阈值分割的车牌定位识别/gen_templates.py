@@ -10,7 +10,7 @@ def generate_templates(save_path="./templates"):
     if not os.path.exists(save_path): os.makedirs(save_path)
 
     # 定义需要识别的所有字符
-    provinces = "京沪津渝冀豫云辽黑湘鲁赣粤万苏浙鄂"
+    provinces = "京沪津渝冀豫云辽黑湘鲁赣粤晋苏浙鄂"
     alphabets = "ABCDEFGHJKLMNPQRSTUVWXYZ"
     digits = "0123456789"
     chars = provinces + alphabets + digits
