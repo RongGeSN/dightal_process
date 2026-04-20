@@ -147,7 +147,8 @@ if __name__ == "__main__":
 
 
 '''
-
+GitHub 地址： asishjose/license-plate-detection-opencv
+GitHub 地址： MoazHassan2022/License-Plate-Recognition
 话题：https://gemini.google.com/app/e966ea12ce221d8c
 1. 经典入门型：License-Plate-Recognition (OpenCV + Template Matching)
 这个项目几乎是为你这张实验单“量身定制”的。它完全避开了复杂的深度学习，只使用传统的图像处理方法。
