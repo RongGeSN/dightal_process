@@ -4,107 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e14e7a9-d5a8-47ec-8439-9dd1553c1e38" name="更改" comment="实验二CNN识别手写数字代码升级">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/gen_templates.py" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/gen_templates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/gen_test_plate.py" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/gen_test_plate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/main_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/main_algorithm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/main_algorithm1.py" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/main_algorithm1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/A.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/B.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/B.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/C.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/C.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/D.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/D.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/E.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/E.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/F.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/F.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/G.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/G.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/H.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/H.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/J.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/J.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/K.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/K.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/L.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/L.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/M.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/M.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/N.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/N.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/P.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/P.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/Q.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/Q.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/R.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/R.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/S.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/S.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/T.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/T.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/U.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/U.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/V.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/V.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/W.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/W.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/X.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/X.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/Y.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/Y.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/Z.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/Z.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/云.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/云.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/京.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/京.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/冀.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/冀.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/晋.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/晋.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/沪.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/沪.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/津.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/津.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/浙.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/浙.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/渝.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/渝.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/湘.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/湘.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/粤.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/粤.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/苏.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/苏.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/豫.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/豫.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/赣.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/赣.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/辽.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/辽.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/鄂.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/鄂.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/鲁.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/鲁.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/templates/黑.png" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/templates/黑.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/000_京QE9CQ4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/000_京QE9CQ4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/001_鄂AG9QYK.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/001_鄂AG9QYK.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/002_黑CAB2FW.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/002_黑CAB2FW.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/003_黑F7B1KP.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/003_黑F7B1KP.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/004_鲁GV3PAN.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/004_鲁GV3PAN.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/005_粤BC3N6V.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/005_粤BC3N6V.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/006_渝F3Y8SH.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/006_渝F3Y8SH.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/007_渝UBUFKP.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/007_渝UBUFKP.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/008_沪QN9QVP.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/008_沪QN9QVP.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/009_黑F1JP3M.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/009_黑F1JP3M.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/010_湘LZS36N.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/010_湘LZS36N.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/011_豫GEG9BF.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/011_豫GEG9BF.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/012_晋F14XPA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/012_晋F14XPA.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/013_冀TBGYDU.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/013_冀TBGYDU.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/014_冀VMSULV.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/014_冀VMSULV.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/015_苏DUSD4F.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/015_苏DUSD4F.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/016_晋PXRN42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/016_晋PXRN42.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/017_晋X6ZTQC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/017_晋X6ZTQC.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/018_湘H6Q9H0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/018_湘H6Q9H0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/019_辽BK2E9G.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/019_辽BK2E9G.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/020_晋EY3E5T.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/020_晋EY3E5T.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/021_沪SZQX0T.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/021_沪SZQX0T.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/022_沪DZ38ST.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/022_沪DZ38ST.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/023_鄂ZVS208.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/023_鄂ZVS208.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/024_冀RAL5WE.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/024_冀RAL5WE.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/025_湘TB9L2R.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/025_湘TB9L2R.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/026_苏GKV1F2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/026_苏GKV1F2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/027_云NXPU14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/027_云NXPU14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/028_鄂TUT14J.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/028_鄂TUT14J.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/029_鲁YHXGLD.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/029_鲁YHXGLD.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/030_豫X8LRHC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/030_豫X8LRHC.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/031_苏GQ3R68.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/031_苏GQ3R68.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/032_辽MTXYGP.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/032_辽MTXYGP.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/033_冀GNS5Z9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/033_冀GNS5Z9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/034_冀JFM7RT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/034_冀JFM7RT.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/035_苏FZ73FN.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/035_苏FZ73FN.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/036_鄂XMT6CH.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/036_鄂XMT6CH.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/037_辽QJ359Q.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/037_辽QJ359Q.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/038_晋SH7KWX.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/038_晋SH7KWX.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验一基于阈值分割的车牌定位识别/test_dataset/039_浙GDYSNT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/实验一 基于阈值分割的车牌定位识别/test_dataset/039_浙GDYSNT.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验二基于 CNN 的手写字体数字识别/Data_Loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/实验二基于 CNN 的手写字体数字识别/Data_Loader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验二基于 CNN 的手写字体数字识别/Model &amp; Training.py" beforeDir="false" afterPath="$PROJECT_DIR$/实验二基于 CNN 的手写字体数字识别/Model &amp; Training.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验二基于 CNN 的手写字体数字识别/Preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/实验二基于 CNN 的手写字体数字识别/Preprocessing.py" afterDir="false" />
-    </list>
+    <list default="true" id="8e14e7a9-d5a8-47ec-8439-9dd1553c1e38" name="更改" comment="修复目录，整理" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,12 +26,12 @@
     &quot;assignee&quot;: &quot;RongGeSN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/RongGeSN/dightal_process.git&quot;,
-    &quot;accountId&quot;: &quot;bd16e156-90f9-4fde-889f-6ecb4f10244e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:RongGeSN/dightal_process.git",
+    "accountId": "bd16e156-90f9-4fde-889f-6ecb4f10244e"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -237,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777513753184</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修复目录，整理">
+      <option name="closed" value="true" />
+      <created>1777531154282</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1777531154283</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +167,7 @@
     <MESSAGE value="完善作业" />
     <MESSAGE value="实验二CNN识别手写数字代码" />
     <MESSAGE value="实验二CNN识别手写数字代码升级" />
-    <option name="LAST_COMMIT_MESSAGE" value="实验二CNN识别手写数字代码升级" />
+    <MESSAGE value="修复目录，整理" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复目录，整理" />
   </component>
 </project>

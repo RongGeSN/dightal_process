@@ -26,7 +26,7 @@ def get_mnist_loaders(batch_size=64, custom_transform=None):
 
     # 定义数据存储路径
     # 所有下载的数据集文件会保存在当前目录下的data文件夹中
-    data_path = './data'
+    data_path = 'data'
 
     # 下载并加载训练数据集
     # train=True表示加载训练集，download=True表示如果本地没有则自动下载
